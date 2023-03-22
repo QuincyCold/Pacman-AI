@@ -1,0 +1,5 @@
+python pacman.py
+python pacman.py -l <layout_file> -p <search agent> -z <zoom level>
+python pacman.py -l mediumMaze.lay -p BFSFoodSearchAgent
+python pacman.py -l mediumClassic -p BFSFoodSearchAgent
+
